@@ -140,8 +140,7 @@ Use ls to verify that it downloaded.
 
 Write down the command that you used to download the file below.  Additionally, write the output of the command below.
 ----------
-
-
+curl -O http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
 ==========
 14. We learned a command to uncompress a .zip file.  Use it to extract the files and folders from the file you just downloaded.
